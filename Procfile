@@ -1,0 +1,1 @@
+worker: python medical_assistant_gpt4_bot.py
